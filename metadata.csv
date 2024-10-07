@@ -1,0 +1,9 @@
+﻿Sample,Organism,Tissue,Library prep method,Sequencing platform,Preprocessing,Reference genome,GFP sort,Pairings,CPP
+06221M,Mus musculus,Sorted NAc nuclei,Chromium Single Cell 3’ Library Construction Kit (10X Genomics),Illumina NovaSeq,cellranger-7-0.0,GRCm38_v5,NEG,1P,Test
+06221P,Mus musculus,Sorted NAc nuclei,Chromium Single Cell 3’ Library Construction Kit (10X Genomics),Illumina NovaSeq,cellranger-7-0.1,GRCm38_v6,POS,1P,Test
+06225M,Mus musculus,Sorted NAc nuclei,Chromium Single Cell 3’ Library Construction Kit (10X Genomics),Illumina NovaSeq,cellranger-7-0.2,GRCm38_v7,NEG,5P,Test
+06225P,Mus musculus,Sorted NAc nuclei,Chromium Single Cell 3’ Library Construction Kit (10X Genomics),Illumina NovaSeq,cellranger-7-0.3,GRCm38_v8,POS,5P,Test
+06271M,Mus musculus,Sorted NAc nuclei,Chromium Single Cell 3’ Library Construction Kit (10X Genomics),Illumina NovaSeq,cellranger-7-0.4,GRCm38_v9,NEG,1P,Homecage
+06271P,Mus musculus,Sorted NAc nuclei,Chromium Single Cell 3’ Library Construction Kit (10X Genomics),Illumina NovaSeq,cellranger-7-0.5,GRCm38_v10,POS,1P,Homecage
+06275M,Mus musculus,Sorted NAc nuclei,Chromium Single Cell 3’ Library Construction Kit (10X Genomics),Illumina NovaSeq,cellranger-7-0.6,GRCm38_v11,NEG,5P,Homecage
+006275P,Mus musculus,Sorted NAc nuclei,Chromium Single Cell 3’ Library Construction Kit (10X Genomics),Illumina NovaSeq,cellranger-7-0.7,GRCm38_v12,POS,5P,Homecage
